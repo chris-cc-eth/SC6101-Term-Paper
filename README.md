@@ -3,6 +3,18 @@
 
 SC6101 Term Paper
 
+You will conduct a literature survey on blockchain Security, Privacy and Scalability issues. The main tasks for the Term Paper will be to:
+Pick a sample blockchain use case (i.e., a Decentralized Application) and argue which one of the three issues -- Security, Privacy, Scalability -- concerns the most in the case of your chosen Decentralized Application.
+Perform a brief literature survey on the issue that you have chosen above, and identify the major considerations in your chosen application.
+Analyze the major considerations you identified above in terms of their impact (and ramifications) on your chosen application.
+Propose strategies and mechanisms (may be from existing literature, or your own) to address the major concerns you have identified.
+This Term Paper is a group project, with at most 6 students.
+
+Resources for Term Paper
+Template for writing and formatting the Term Paper : Microsoft Word Document or LaTeX (zip)
+Overleaf template for IEEE Conference Paper (in case you want to use LaTeX format, but online):
+https://www.overleaf.com/latex/templates/ieee-conference-latex-template/hkfsmxcvymyk
+
 ## Member
 
 ## Term Paper Outline
