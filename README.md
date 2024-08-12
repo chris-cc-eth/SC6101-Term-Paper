@@ -58,7 +58,10 @@ chris-cc-eth <https://github.com/chris-cc-eth>
 
 ## Task Distribution
 
-1. Editor (alicesin615):
+1. Editor (alicesin615, chris-cc-eth):
+   - Coordinates overall efforts and timelines
+   - Sets up and manages shared documents and project management tools
+   - Oversees the integration of all sections
    - Writes the abstract
    - Handles final formatting and compilation
    - Responsible for the conclusion section
@@ -76,7 +79,7 @@ chris-cc-eth <https://github.com/chris-cc-eth>
    - Collaboratively identifies and summarizes major considerations
    - Writes the literature review section
 
-4. Analysis Specialist (chris-cc-eth):
+4. Analysis Specialist (alicesin615, chris-cc-eth):
    - Analyzes the major considerations
    - Evaluates their impact and ramifications on the chosen application
    - Writes the analysis section of the paper
