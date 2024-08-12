@@ -1,21 +1,23 @@
 
 # SC6101-Term-Paper
 
-SC6101 Term Paper
+Overview
 
-You will conduct a literature survey on blockchain Security, Privacy and Scalability issues. The main tasks for the Term Paper will be to:
-Pick a sample blockchain use case (i.e., a Decentralized Application) and argue which one of the three issues -- Security, Privacy, Scalability -- concerns the most in the case of your chosen Decentralized Application.
-Perform a brief literature survey on the issue that you have chosen above, and identify the major considerations in your chosen application.
-Analyze the major considerations you identified above in terms of their impact (and ramifications) on your chosen application.
-Propose strategies and mechanisms (may be from existing literature, or your own) to address the major concerns you have identified.
-This Term Paper is a group project, with at most 6 students.
-
-Resources for Term Paper
-Template for writing and formatting the Term Paper : Microsoft Word Document or LaTeX (zip)
-Overleaf template for IEEE Conference Paper (in case you want to use LaTeX format, but online):
-https://www.overleaf.com/latex/templates/ieee-conference-latex-template/hkfsmxcvymyk
+To Be Determine
 
 ## Member
+
+SNDZIL <https://github.com/SNDZIL>
+
+alicesin615 <https://github.com/alicesin615>
+
+b21quocbao <https://github.com/b21quocbao>
+
+natalieybl <https://github.com/natalieybl>
+
+vinothkumarmohanraj <https://github.com/vinothkumarmohanraj>
+
+chris-cc-eth <https://github.com/chris-cc-eth>
 
 ## Term Paper Outline
 
@@ -56,30 +58,33 @@ https://www.overleaf.com/latex/templates/ieee-conference-latex-template/hkfsmxcv
 
 ## Task Distribution
 
-1. Editor (1 person):
+1. Editor (alicesin615, chris-cc-eth):
+   - Coordinates overall efforts and timelines
+   - Sets up and manages shared documents and project management tools
+   - Oversees the integration of all sections
    - Writes the abstract
    - Handles final formatting and compilation
    - Responsible for the conclusion section
 
-2. Introduction and Background Specialist (1 person):
+2. Introduction and Background Specialist (natalieybl):
    - Writes the introduction, including the problem statement
    - Expands on the provided background information
    - Describes the chosen DAPP in detail
    - Explains the criticality of the chosen issue for this use case
 
-3. Literature Survey Team (2 people):
+3. Literature Survey Team (SNDZIL and vinothkumarmohanraj):
    - Conducts a comprehensive literature review from both academic and industry perspectives
    - Person A focuses on academic sources
    - Person B focuses on industry reports, whitepapers, and technical documentation
    - Collaboratively identifies and summarizes major considerations
    - Writes the literature review section
 
-4. Analysis Specialist (1 person):
+4. Analysis Specialist (alicesin615, chris-cc-eth):
    - Analyzes the major considerations
    - Evaluates their impact and ramifications on the chosen application
    - Writes the analysis section of the paper
 
-5. Solutions and Future Work Specialist (1 person):
+5. Solutions and Future Work Specialist (b21quocbao):
    - Proposes strategies and mechanisms to address the major concerns
    - Researches existing solutions and potentially develops novel approaches
    - Writes the proposed solutions section
