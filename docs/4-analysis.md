@@ -82,7 +82,7 @@ Third, security is facing challenges in L2s. In optimistic rollups, there is no 
 
 At the current stage, L2s such as Optimism and Arbitrum are implementing their dedicated fraud proofs. On Optimism, fraud proofs allow the trustless and retroactive dispute of a transaction from the canonical state roots, effectively removing it from the chain trustlessly if the fraud-proof is valid. On Arbitrum, if there are conflicting state root proposals, validators stake on histories - effectively utilizing the fraud proofs to solve the fork choice. [9] More work still needs to be done for productionalizing fraud proofs.
 
-Lastly, it is costly to bridge between different ecosystems. The user is required to return the assets to the mainnet before they enter another ecosystem. On optimistic rollups, bridge assets to mainnet require seven days, and deposit assets to an L2 ecosystem cost around 8 dollars as average gas prices. This brings incontinence for users who are time or cost-sensitive.
+Lastly, it is costly to bridge between different ecosystems. Users are required to return the assets to the mainnet before they enter another ecosystem. On optimistic rollups, bridging assets to mainnet require approximately seven days, and depositing assets onto an L2 ecosystem cost around an average of 8 dollars worth of gas price. This brings inconvenience for users who are time or cost-sensitive.
 
 ## References
 
