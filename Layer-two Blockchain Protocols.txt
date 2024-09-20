@@ -1,0 +1,25 @@
+
+
+References:1. An Introduction to Blockchain Scalability Issues.
+Blockchain, since its inception, has transformed the financial and technological environment by providing decentralized and transparent means of record keeping. However, scalability has remained a significant barrier for blockchain networks, particularly public blockchains like Bitcoin and Ethereum. These blockchains struggle with low transaction throughput and high latency, unable to handle large volumes of transactions in real-time. The blockchain trilemma—which states that it is difficult to achieve decentralization, security, and scalability simultaneously—continues to be a critical issue for blockchain scalability (Conti et al., 2019).
+
+2. Layer 1 Solutions
+The first wave of scaling solutions, known as Layer-one solutions, attempted to alter the core design of blockchains. These suggestions included modifying consensus methods, increasing block size, and implementing sharding solutions. Proof-of-Stake (PoS) has been studied as a replacement for Proof-of-Work (PoW) to reduce computational overhead, whereas sharding divides the blockchain network into smaller pieces known as shards to increase throughput. While these methods improved scalability in certain ways, they typically required significant changes to the blockchain's underlying protocols, raising worries about hard forks and backward compatibility.
+.
+
+3. The Emergence of Layer Two Protocols
+To address the constraints of Layer-one solutions, Layer-two protocols were created as an alternative method of scaling blockchains without affecting the foundation layer. Layer-two protocols enable off-chain transaction processing, greatly decreasing the burden on the primary blockchain (Gangwal et al., 2023). These protocols rely on the main chain for trust and dispute resolution, but the majority of transactions are handled off-chain. State channels, side chains, payment channels, and rollups are examples of popular Layer-2 systems.
+
+4. State and payment channels
+State channels and payment channels were among the earliest Layer-2 scalability solutions, allowing parties to transact off-chain while keeping the security guarantees of the underlying blockchain. State channels enable frequent transactions between parties without broadcasting each transaction to the blockchain. This technique considerably reduces transaction costs and latency, but it requires members to remain online to monitor the network, which can be unfavorable (Decker and Wattenhofer, 2015). Payment channels, a type of state channel, were designed for micropayments. Bitcoin's Lightning Network is a well-known example..
+
+
+5. Side Chains: Side chains run in parallel with the main blockchain and offload computing chores. A subsidiary chain can have its own rules and consensus procedure while being linked to the main chain by a two-way peg (Back et al., 2014). Side chains provide more flexibility for applications that need different rules or faster processing times than the main chain can handle. They have challenges in terms of interoperability, security, and the need for regular cross-chain communication.
+
+6. Roll-ups
+Rollups have lately produced prominence as a possible Layer-two method for reducing huge batches of transactions into a single transaction on the main chain. Optimistic Rollups imagine transactions are genuine until challenged, but Zero-Knowledge (zk) Rollups rely on cryptographic proofs to validate transactions off-chain (Gabizon et al., 2019). Rollups provide important scalability benefits by lower on-chain data and using off-chain computing, making them ideal for both general-purpose smart contracts and specific use cases such as payments.
+8. Existing Research Gaps
+While other Layer-two solutions have been proposed, many studies concentrate on individual protocols rather than providing a comprehensive evaluation of all choices. Existing research usually focuses on well-known protocols, overlooking developing options like bisection procedures and innovative hybrid models. Furthermore, the rapid expansion of Layer-two protocols has resulted in fragmented material, making it difficult for beginners to traverse the topic. Larger, more complete studies are required to test many methodologies under consistent conditions in order to understand their trade-offs in terms of scalability, security, and usability (Kim et al. 2018).
+
+9. Conclude.
+This survey emphasizes the various methods to Layer-two scalability, stressing the importance of ongoing research in this rapidly increasing domain. While protocols such as state channels, payment channels, side chains, and rollups promise to improve scalability, each has constraints and trade-offs. The article advocates for more comparison studies to assess the effectiveness of these solutions in real-world scenarios, as well as the development of new hybrid models that can solve both on-chain and off-chain scalability concerns.

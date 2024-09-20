@@ -1,0 +1,15 @@
+Introduction:
+Through on-chain liquidity, Automated Market Makers (AMMs) cover the vital need for liquidity in the prediction markets where trading is often characterized by thin trading volume. While the LMSR proposed by Hanson has apparent applications at the present time, existing AMMs are unable to take into consideration the fluctuations in the liquidity of assets and can act at a potential great loss. This paper proposes a simple extension to LMSR which incorporates price sensitivity depending on the level of market trading. In doing so, it guarantees a bounded worst-case loss and potentially profit, where the existing AMM designs suffer from both liquidity insensitivity and operation deficit.
+
+Impact:
+This has brought substantial enhancement to the effectiveness of using a liquidity-sensitive AMM in the real-world application of prediction markets and other trading platforms. The proposed market maker uses dynamic price sensitivity to liquidity condition and thus decreases volatile price fluctuation especially in the liquid financial products while avoiding large price disturbance in the low activity or thin markets. These bounded mechanisms of loss also make it sensitive to liquidity which is more realistic for real-world application of this model in large scale markets where combinatorial events occur in which traditional methods would be computationally cumbersome. Furthermore, this design can bring a radical change to other industries that rely on prediction markets due to certain circumstances by making them more stable and profitable under different conditions including the financial, betting on sports, and weather forecasting.
+
+
+Conclusion:
+
+It can therefore be concluded that this paper does make suitable enhancements for AMMs’ imperfect models, by introducing a novel LMSR with liquidity-sensitive parameters. Since it has proposed a dynamic model of price elasticity to market activity, the market maker also avoids great losses, and most importantly triggers a prospect of gain. The performance of the event predictor and market robustness show that making the finance model slightly less constrained to the no-arbitrage condition enhances the study’s main strength. The future work involves checking for the validity of this new model in real, and examining the applicability of this framework for large events through cost function based sampling.
+
+References:
+Tuomas. Sandholm, Abraham Othman, David M. Pennock, and Daniel M. Reeves; A Practical Liquidity-Sensitive Automated Market Maker Conference on Electronic Commerce, 2010.
+R. Hanson, Combinatorial Information Market Design in Information Systems Frontiers, Vol 6, 2003.
+There is no complete list of papers However one can cite few papers among them S. Agrawal, E. Delage, M. Peters, Z. Wang, Y. Ye, A Unified Framework for Dynamic Pari-mutuel Information Market Design, Proceedings of the 10th ACM Conference on Electronic Commerce, 2009.
