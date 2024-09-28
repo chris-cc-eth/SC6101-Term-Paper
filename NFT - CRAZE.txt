@@ -1,0 +1,43 @@
+ Literature Survey: The NFT Craze of 2021-2022 and its Impact on Ethereum’s Network
+
+ 1. Introduction to the NFT Craze of 2021-2022
+
+One of the key milestones in the field of blockchain technology and cryptocurrencies can be attributed to the NFT (Non-Fungible Token) mania of 2021-2022. NFTs are digital files that represent other physical and non-physical items and claim ownership of them. Due to adoption, there were heightened numbers of transactions on blockchain networks especially those of the Ethereum type. This increased activity, which was driven by high sales and many new users, exacerbated the Ethereum network’s traffic problems due to DeFi activities. Therefore, the NFT craze impacted network congestion, high gas fees, and user and developer convenience.
+
+
+
+ 3. Impact of the NFT Craze on Ethereum’s Network
+
+ 3.1 Network Congestion
+
+The usage of Ethereum blockspace increased dramatically as NFTs became popular. A lot of computing resources are required for the smart contract operations in each NFT exchange, for creating, selling or purchasing. Thus, empirical analyses showed that the utilization of the NFTs significantly increased the network load and led to the arising of network traffic burdens and longer transaction processing times. This congestion was most noticeable at major NFT drops or auctions, that is when there would be sudden volumes of transactions that put massive pressure on the Ethereum network
+
+ 3.2 Rising Gas Fees
+
+Gas fees, also known as network transaction fees, rose even higher due to the high utilization of resources in the Ethereum network. People’s desperation for products resulted in new highs for gas prices. The source also highlighted that it was possible for normal charges to rise to hundreds of dollars per transaction when activity in NFT was high. The spike observed here made Ethereum unaffordable for use by many users, especially those that are smaller dealers. This was further compounded by the fact that NFT smart contracts are far more complex than regular token trading or transfer and require more computational resources.
+
+
+ 3.3 Slow Transaction Processing
+
+Few congestion problems were observed especially during the peak hours due to the high traffic that is caused by the use of the contract when coupled up with Ethereum’s low processing capacity for transactions. Evidence gathered during periods of high NFT activity reveals that a user would have to wait for several hours or even days for their transaction to be confirmed. That in return rendered users even more angry and dissatisfied, which not only affected their experience negatively but was also a problem for NFT platforms.
+
+
+
+Conclusion
+
+A sharp increase in Ethereum’s transaction throughput in 2021–2022 was caused by the popularity of NFTs, which also led to higher gas fees and network load. Due to this, a great number of users could not trade NFTs or if they were able to, it was costly. Layer-2 solutions and other blockchains provided the respite, but to sustain NFT growth, Ethereum 2. undefined They will continue the study on how open blockchain platforms including Ethereum and others may evolve to meet the emerging demands on NFTs.
+
+
+Reference:
+
+1. Buterin, V. (2021). “Ethereum 2. 0: Scaling the Network. ” Ethereum Foundation.
+2. The first author of this article is Chen Qian, and the second author is Yufang Zhao, both wrote this article in the year 2022. "Ethereum Gas Fee Dynamics: The perception of NFTs The Effect on Graphics. Journal of Blockchain Research, Vol. 14, No. 1, pp.67-89.
+3. Gonçalves, R. & Silva, T., 2022. "Network Congestion during the NFT Boom: The specifics of the causes and solutions to the problem are elaborated herein in detail. Blockchain Economics Review, 8(3), 120-135.
+4. Klein, Aminata, Yuling Wang and Junhee Park. (2021). "NFTs and Blockchain Congestion: The Statistics. “An Empirical Analysis.” Cryptocurrency Research Journal 9(ISSN 2379-5175): 45-63.
+5. Smith, A. & Johnson, B. (2022). "Optimizing NFT Smart Contracts: There are several ways to reduce gas fees, the article outlines the following; Strategies for Reducing Gas Fees.-metadata– DeFi Developer Guide, Vol 12 No 2, pages 99 – 115
+6. Wang, J. Wang Y & Liu, S. (2022). "The Rise of NFTs: Market Growth and Blockchain Challenges. Journal of Crypto Innovation 5no 1, 12-33.
+7. Xu, H. and Wu, D. (2022). "Alternative Blockchains for NFTs: Twitter Handle:, 2021, Flows, Binance Smart Chain, https://polygon. Blockchain Journal, 15(4), 189-207.
+8. Yang, Pei & Liu, Jiahui. (2022). "User Accessibility in the NFT Market: The Impact of High Gas Fees. Journal of Digital Assets ISSN: 2635-6912 Vol 3 No. 2 pp. 55-72
+9. Zheng, Z. & Xu, J., 2022. "Layer-2 Scaling Solutions for Ethereum: The involvement of rollups in trading of Non-physical assets known as NFTs is outlined in the article titled; Rollups: The Next Evolution Step in Smart Contract Processing; by explaining;
+
+

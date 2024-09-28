@@ -1,0 +1,38 @@
+1. Introduction
+Prediction markets (PMs) are becoming increasingly acknowledged for their forecasting effectiveness, thanks to their capacity to combine divergent opinions into market values that anticipate future occurrences. These marketplaces have been used in a variety of disciplines, including political predictions, sales forecasting, and product development review. However, the effectiveness of PMs is heavily reliant on their structure, particularly the market mechanism deployed.
+
+The present research examines at the subject matter of low liquidity in PMs and proposes the deployment of automated market makers (AMMs) as a solution. In lieu of human market makers in typical financial markets, AMMs may always supply buy and sell prices, allowing liquidity to be maintained even when fewer traders are present..
+
+2. Related Work on Prediction Markets
+Forecasting with Prediction Markets: Prediction markets have been shown to outperform polls and expert opinions in a variety of fields, including politics, business, and even internal corporate projections. According to studies, organizations such as Google and Hewlett-Packard have used PMs for internal forecasting purposes.
+
+Automated Market Makers (AMMs): Prior research has looked into the usage of AMMs, such as Hanson's logarithmic market scoring rules (LMSR), Pennock's dynamic pari-mutuel markets (DPM), and dynamic price adjustment methods. However, little research has been conducted to assess the performance of various AMMs in terms of forecasting accuracy, resilience, and other aspects, which is the focus of this work.
+
+3. Market Mechanisms in Prediction Markets
+The paper studies various kinds of AMMs, including:
+Logarithmic Market Scoring Rules (LMSR): A popular AMM that automatically adjusts prices based on the total amount of shares traded.Dynamic Pari-Mutuel Market (DPM): Another AMM that constantly adjusts prices, awarding funds to winning shares at the end of the market.Dynamic Price Adjustment (DPA): This technique generates set costs for each security up to a specified threshold.Hollywood Stock Exchange (HSX) Mechanism: A popular AMM in the HSX market, which uses a sweep phase to aggregate orders and adjust prices based on demand and supply.
+The paper studies various kinds of AMMs, including:
+Logarithmic Market Scoring Rules (LMSR): A popular AMM that automatically adjusts prices based on the total amount of shares traded.Dynamic Pari-Mutuel Market (DPM): Another AMM that constantly adjusts prices, awarding funds to winning shares at the end of the market.Dynamic Price Adjustment (DPA): This technique generates set costs for each security up to a specified threshold.Hollywood Stock Exchange (HSX) Mechanism: A popular AMM in the HSX market, which uses a sweep phase to aggregate orders and adjust prices based on demand and supply..
+4. Simulation Study and Performance Comparison.
+The authors carried out a large-scale simulation to assess the performance of these four AMMs, focusing on numerous criteria:
+Forecasting Accuracy: The AMM's capacity to estimate the true value of the shares.
+Liquidity and Price Efficiency: The rate at which fresh information is factored into market pricing.
+Losses for Market Operators: The financial consequences of using various AMMs.
+Robustness to Noisy Trading: The AMM's robustness to errors induced by inexperienced or unreasonable traders.
+
+
+5. Key Results
+The results indicated that LMSR and DPM beat the other AMMs in terms of forecasting accuracy and liquidity. These techniques were able to incorporate new information more quickly and with greater cost effectiveness.
+DPA and HSX were found to be less robust, especially in noisy trading environments. The study also emphasized the trade-offs between ease of implementation and forecast accuracy.
+Despite their complexity, the LMSR and DPM techniques outperformed, particularly in scenarios with considerable uncertainty regarding genuine share prices.
+
+
+6. Conclusion
+The paper demonstrates that, while all AMMs has advantages in different areas, LMSR and DPM are the most versatile and accurate in prediction markets. They provide increased liquidity, perseverance, and forecasting accuracy, making them desirable alternatives for market operators. Simpler approaches, such as DPA, may nevertheless be efficient in markets that have limited complexity and volatility.
+
+
+Reference: Arrow, K., Forsythe, R., Gorham, M., Hahn, R., Hanson, R., Ledyard, J. O.,... & Zitzewitz, E. (2008). Prediction markets hold great promise. Science, 320 (5878), 877-878.
+Berg, J., R. Forsythe, F. Nelson, and T. Rietz (2008). Twelve years of election futures market study yielded these results. C. Plott and V. Smith (Eds.), Handbook of Experimental Economic Results (pp. 742-751).
+Chen, K.Y., & Plott, C.R. (2002). Mechanisms for aggregating information: Concept, design, and implementation of a sales forecasting problem. Working Paper No. 1131 in Social Science from the California Institute of Technology.
+Hanson, R. 2003. Designing a combinational information market. Information Systems Frontiers 5(1): 107-119.
+Pennock, D. M., Lawrence, S., Giles, C. L., and Nielsen, F. A. (2007). The actual power of fake markets. Science, 291(5506), 987-98.
